@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9b6247660541ab84baa7155f1faa0e0d
+guid: 923b50675fa974fe4b001bc4faa33f60
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,7 +8,7 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Building1
+    4300000: Sphere2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -37,7 +37,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1

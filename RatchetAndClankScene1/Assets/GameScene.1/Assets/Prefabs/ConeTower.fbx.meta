@@ -1,14 +1,18 @@
 fileFormatVersion: 2
-guid: 9b6247660541ab84baa7155f1faa0e0d
+guid: 3581d11232570499789879210adae3a7
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: polySurface10
+    100004: polySurface16
     400000: //RootNode
+    400002: polySurface10
+    400004: polySurface16
     2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Building1
+    2300000: polySurface16
+    3300000: polySurface16
+    4300000: polySurface16
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -37,7 +41,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
