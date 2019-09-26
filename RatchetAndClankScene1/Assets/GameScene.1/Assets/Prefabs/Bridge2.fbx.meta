@@ -1,14 +1,15 @@
 fileFormatVersion: 2
-guid: e70e3af7da790cf4d9fa15243500042d
+guid: 984fd0b77c90f461093e491043b21dfd
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert1
+    2100000: lambert3
+    2100002: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pSphere2
+    4300000: Bridge1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -37,7 +38,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
